@@ -1,8 +1,7 @@
 
 
 
-https://github.com/Michal-Surmacz/customer-relationship-management/assets/130986866/eef57d1f-3518-4964-89c6-b47a925e47b4
-
+https://github.com/Michal-Surmacz/customer-relationship-management/assets/130986866/c0cd054e-d92a-462f-869a-c516a756656a
 
 
 
