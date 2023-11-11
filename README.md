@@ -1,7 +1,10 @@
 
 
 
-https://github.com/Michal-Surmacz/customer-relationship-management/assets/130986866/931da188-9ae9-44c3-ac17-9670239f9940
+https://github.com/Michal-Surmacz/customer-relationship-management/assets/130986866/eef57d1f-3518-4964-89c6-b47a925e47b4
+
+
+
 
 
 # Objective "customer-relationship-management"
